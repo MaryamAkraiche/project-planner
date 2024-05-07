@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Pixelify+Sans:wght@400..700&display=swap');
+
 // ------------------------------------mobile-----------------------------
 :root {
     --background-color: #ffffff; /* Couleur de fond par défaut */
@@ -37,6 +40,13 @@
     width: 35%;
   }
   
+
+h3 {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 16px;
+  font-style: normal;
+}
+
 // -------------------------------pc-------------------------------------
   
 @media screen and (min-width:601px) {
