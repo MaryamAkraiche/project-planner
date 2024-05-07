@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Oswald:wght@200..700&family=Pixelify+Sans:wght@400..700&display=swap');
 
 // ------------------------------------mobile-----------------------------
 :root {
@@ -48,10 +47,12 @@
   
 
 .policeH3 {
-  font-family: "Jacquard 24", system-ui;
-  font-weight: 16px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:16px;
   font-style: normal;
 }
+
 
 // -------------------------------pc-------------------------------------
   
