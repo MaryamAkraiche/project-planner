@@ -6,7 +6,7 @@
 
 /* Mode sombre */
 .dark-mode {
-  --background-color: #111111; /* Couleur de fond en mode sombre */
+  --background-color: grey; /* Couleur de fond en mode sombre */
   --text-color: #ffffff; /* Couleur du texte en mode sombre */
 }
 
