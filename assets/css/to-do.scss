@@ -26,22 +26,28 @@
     background-color: rgb(251, 109, 84);
     height: 35%;
     width: 35%;
+    display: flex;
+    justify-content: space-around;
   }
   
   .doing {
     background-color: aqua;
     height: 35%;
     width: 35%;
+    display: flex;
+    justify-content: space-around;
   }
   
   .done {
     background-color: green;
     height: 35%;
     width: 35%;
+    display: flex;
+    justify-content: space-around;
   }
   
 
-h3 {
+.policeH3 {
   font-family: "Jacquard 24", system-ui;
   font-weight: 16px;
   font-style: normal;
