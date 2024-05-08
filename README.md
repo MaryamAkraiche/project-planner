@@ -7,7 +7,7 @@
         -Durée : 3 jours
         -Date limite : 08/05/2024 - 17h00
 
-## 🔎 mission :
+## 🔎 Mission :
 #### Voici la liste des fonctionnalités que nous aimerions voir :
 
     -Autoriser l'utilisateur à créer des tâches. Les tâches doivent avoir un nom, une description et une date d'échéance.
@@ -22,7 +22,7 @@
 
     -BONUS : enregistrez les tâches dans LocalStorage, afin qu'elles persistent même lorsque la page est actualisée.
 
-## 💻 languages utilliser :
+## 💻 Languages utilliser :
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
