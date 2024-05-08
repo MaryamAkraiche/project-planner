@@ -29,7 +29,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 🧰 outils:
-
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Gather]()
+![Gi]()
+![Notion]()
+![VSCode](https://img.shields.io/badge/VSCode)
 Gather , Git , Github , Notion ,Visual Studio Code
 
 ## 🧑 Crédits:
