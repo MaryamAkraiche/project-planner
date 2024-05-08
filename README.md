@@ -31,9 +31,11 @@
 ## 🧰 outils:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/aur/version/visual-studio-code-bin?style=flat&logo=VSCode&logoColor=blue&logoSize=14px&label=VSCode&labelColor=blue&cacheSeconds=3000
-)
-Gather , Notion ,Visual Studio Code
+![Gather](https://img.shields.io/badge/Gather-gather?style=for-the-badge&logo=Gather&logoColor=blue&labelColor=8F03FD&color=8F03FD&cacheSeconds=3000)
+![Notion](https://img.shields.io/badge/Notion-N?style=for-the-badge&logo=Notion&logoColor=black&labelColor=%23ffffff&color=%23000000&cacheSeconds=3000)
+![VSCode](https://img.shields.io/badge/Visual-Studio-Code?style=for-the-badge&logo=Visual%20Studio%20Code&labelColor=blue&color=blue)
+
+Gather,Visual Studio Code
 
 ## 🧑 Crédits:
 
