@@ -34,14 +34,14 @@ Gather , Git , Github , Notion
 
 ## 🧑 Crédits:
 
-Maryam :filter ,header  
+Maryam : filter ,header  
 
 Tom : task ,delai date,Ajoutée des icons sur le task pour del/modif/done/progresse
 
-Stacy :to-do-list ,le dark mode,Readme,
+Stacy : to-do-list ,le dark mode,Readme
  
 
-## Conclusion
+## 🖊️ Conclusion
 
 Notre application permet à l'utilisateur de créer les tâches à effectuer et d'avoir une vue sur les délais pour les effectuers.
 
