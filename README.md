@@ -24,11 +24,9 @@
 
 ## 💻 languages utilliser :
 
-![Html](https://cdn-icons-png.flaticon.com/256/174/174854.png)
-
-![SASS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc1Qg-72pB5V8fAHTYe_2lw7ild-0eKwjwOgqJHeB6ug&s)
-
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 🧰 outils:
 
