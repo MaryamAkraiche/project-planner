@@ -30,11 +30,9 @@
 
 ## 🧰 outils:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Gather]()
-![Gi]()
-![Notion]()
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode)
-Gather , Git , Github , Notion ,Visual Studio Code
+Gather , Notion ,Visual Studio Code
 
 ## 🧑 Crédits:
 
