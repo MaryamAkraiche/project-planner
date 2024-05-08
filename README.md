@@ -39,7 +39,7 @@ Gather,Visual Studio Code
 
 ## 🧑 Crédits:
 
-Maryam : filter ,header ,dark mode
+Maryam : filter ,header ,dark mode,Ajoutée un storage Local
 
 Tom : pn ,task ,delai date,Ajoutée des icons sur le task pour del/modif/done/progresse
 
