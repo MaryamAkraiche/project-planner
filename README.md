@@ -30,7 +30,7 @@
 
 ## 🧰 outils:
 
-Gather , Git , Github , Notion 
+Gather , Git , Github , Notion ,Visual Studio Code
 
 ## 🧑 Crédits:
 
